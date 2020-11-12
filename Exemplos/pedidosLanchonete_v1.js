@@ -90,7 +90,21 @@ function calcularTotalPedido(lanche,combo) {
 // executa programa
 menu();
 lancheEscolhido = 1;
+console.log('Opção de lanche: ' + lancheEscolhido);
 querCombo = true;
+if(querCombo) {
+    console.log('Com combo');
+}
+else {
+    console.log('Sem combo');
+}
 pagarDinheiro = true
+if(pagarDinheiro) {
+    console.log('Em dinheiro');
+}
+else {
+    console.log('Em cartão');
+}
+console.log('Opção de pagamento: ' + tipoPagamento);
 pedidosLanchoneteSimples(lancheEscolhido,querCombo,pagarDinheiro);
 

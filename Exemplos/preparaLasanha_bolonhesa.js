@@ -17,7 +17,7 @@ if (molhoDeTomate && massaDeLasanha && queijoMussarela && carneMoida ) {
     // }
     // forma alternativa usando for (repita até chegar ao X)
     for (let index = 1; index <= tempoDeForno; index++) {
-        console.log('Aguardar: ', index, ' minuto(s)');
+        console.log('Aguardando: ', index, ' minuto(s)');
     }
     console.log('Lasanha ' + receita +' pronta');
 } else {

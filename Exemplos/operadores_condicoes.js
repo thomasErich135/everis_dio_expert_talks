@@ -20,7 +20,7 @@ console.log(false || false);
 // Operador ! ( NEGAÇÃO / NOT )
 // !0 = true
 console.log(!false);
-// !1 = true
+// !1 = false
 console.log(!true);
 
 //Operadores matemáticos
@@ -67,7 +67,7 @@ if(false){
 }
 
 // switch case (faça isso caso o valor seja X)
-switch ("55") {
+switch (57) {
     case 1:
         console.log("teste igual a 1");
         break;
