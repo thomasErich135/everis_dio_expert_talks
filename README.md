@@ -1,4 +1,4 @@
-# Live Expert Talks - everis
+# Everis Dio - Expert Talks
 
 Lógica de Programação com Javascript
 
