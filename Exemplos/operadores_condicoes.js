@@ -1,7 +1,7 @@
 //Operadores lógicos
 // Uso de 0 e 1 para facilitar a visualização
 
-// operador && (E/AND)
+// operador && ( E / AND )
 // 1 && 1 = true
 console.log(true && true);
 // 1 && 0 = false
@@ -9,14 +9,15 @@ console.log(true && false);
 // 0 && 0 = false
 console.log(false && false);
 
-//operador || (OU/OR )
+//operador || ( OU / OR )
 // 1 || 1 = true
 console.log(true || true);
 // 1 || 0 = true
 console.log(true || false);
 // 0 || 0 = false
 console.log(false || false);
-// Operador ! (NEGAÇÃO/NOT)
+
+// Operador ! ( NEGAÇÃO / NOT )
 // !0 = true
 console.log(!false);
 // !1 = true
