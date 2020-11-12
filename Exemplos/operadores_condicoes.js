@@ -25,7 +25,8 @@ console.log(!true);
 
 //Operadores matemáticos
 
-//Condicionais retornam verdadeiro ou falso
+//Condicionais retornam 
+//verdadeiro ou falso
 // 1 > 0 = true
 console.log( 1 > 0 );
 // 1 < 0 = false
